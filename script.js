@@ -24,11 +24,11 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: What baseball player had the shortest carrer _____.",
-        a: [{text: "EDDIE GAEDEL.", isCorrect: false},
-            {text: "PAUL WANER.", isCorrect: false},
-            {text: "GEORGE SISLER.", isCorrect: false},
-            {text: "WILLIE KEELER.", isCorrect: true},
+        q: "Fill in the blank: Who was the youngest mlb player _____.",
+        a: [{text: "CORBIN BURNES.", isCorrect: false},
+            {text: "JUAN SOTO.", isCorrect: false},
+            {text: "MOOKIE BETTS.", isCorrect: false},
+            {text: "JOE NUXHALL.", isCorrect: true},
            ]
     },
     

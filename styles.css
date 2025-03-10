@@ -1,5 +1,5 @@
 html {
-    color: slategray;
+    color: rgb(0, 2, 142);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
     background-image: url("images/360_F_434921743_r0MY1qKXU8wcyQXN9l23jB0mxkbE1iyj.jpg");
@@ -57,17 +57,17 @@ section {
 }
 
 a {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font: bold 14px "Arial Black", Gadget, sans-serif;
 }
 
 a:link {
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
 }
 
 a:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 a:hover {
